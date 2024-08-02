@@ -1,0 +1,21 @@
+{
+  "name": "batatinha123",
+  "version": "0.0.1",
+  "description": "anything",
+  "main": "index.js",
+  "scripts": {
+    "start": "node  index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "exemplo"
+  ],
+  "author": "Fogaca, Fernando",
+  "license": "ISC",
+  "dependencies": {
+    "npm": "^10.8.2"
+  },
+  "devDependencies": {
+    "dot-env": "^0.0.1"
+  }
+}
