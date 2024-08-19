@@ -1,8 +1,8 @@
-# nodeJS_Backend
+# NodeJS_Backend
 
 ## Aula 01 (30.07.2024)
 Conteúdo:
- Introdução ao NodeJS
+- Introdução ao NodeJS
  Executando scripts
  Node CLI
  Lendo argumentos na CLI
@@ -13,7 +13,7 @@ Estamos usando no repositório o commit semântico semantic commit.
 
 ## Aula 02 (01.08.2024)
 Conteúdo:
- Correção de problemas de ambiente
+  Correção de problemas de ambiente
  NPM
  Dependências de produção
  Dependências de desenvolvimento
