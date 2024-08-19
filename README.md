@@ -13,7 +13,7 @@ Estamos usando no repositório o commit semântico semantic commit.
 
 ## Aula 02 (01.08.2024)
 Conteúdo:
-  Correção de problemas de ambiente
+  - Correção de problemas de ambiente
  NPM
  Dependências de produção
  Dependências de desenvolvimento
@@ -24,7 +24,7 @@ N/A
 
 ## Aula 03 (05.08.2024)
 Conteúdo:
- Correção de exercício
+ - Correção de exercício
  versionamento de código
  import vs require
  backend
@@ -35,7 +35,7 @@ N/A
 ## Aula 04 (08.08.2024)
  revisão HTTP
  métodos HTTP
- requests com HTTP usando CURL
+ - requests com HTTP usando CURL
  fluxo de envio de dados (form -> backend)
  setup da aplicação NodeJS com TS
 Anotações
@@ -49,13 +49,13 @@ curl -X POST http://localhost:3000/cadastro
 ## Aula 05 (12.08.2024)
  Express
  Método GET
- Extraindo informações via Query String
+ - Extraindo informações via Query String
  Extraindo informações via parameter
 Anotações
 From scratch: termo usado quando desenvolvemos algo do zero.
 
 ## Aula 06 (13.08.2024)
- Verbos HTTP
+ - Verbos HTTP
  HTTP Responses
  Status Codes
  Content Types
@@ -70,7 +70,7 @@ Insomnia
 Postman
 
 ## Aula 07 (15.08.2024)
- Estruturação do projeto com MVC
+- Estruturação do projeto com MVC
  Conexão com banco de dados usando mysql2
  Listagem de Departamentos
  Inserção de Departamentos
