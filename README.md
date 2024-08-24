@@ -1,6 +1,6 @@
-## NodeJS para Backend-
+# NodeJS para Backend-
 
-# Portuguese =>
+## Portuguese =>
 
 Aula 01 (30.07.2024)
 Conteúdo:
@@ -105,9 +105,9 @@ Aula 10 (22.08.2024)
 Anotações
 Ferramentas de varredura de código: ficam normalmente interligadas no CI/CD. SonarQube (valida complexidade, code smells, redundância...)
 
-## NodeJS in the Backend
+# NodeJS in the Backend
 
-# English =>
+## English =>
 
 Lesson 01 (30/07/2024)
 Content:
