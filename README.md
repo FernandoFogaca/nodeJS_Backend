@@ -110,106 +110,115 @@ English =>
 Lesson 01 (30/07/2024)
 Content:
 
-Introduction to NodeJS
-Running scripts
-Node CLI
-Reading arguments in the CLI
-Installing a package
-Reading arguments in the CLI with Yargs
+- Introduction to NodeJS
+- Running scripts
+- Node CLI
+- Reading arguments in the CLI
+- Installing a package
+- Reading arguments in the CLI with Yargs
 Notes:
 We are using semantic commits in the repository.
+
 Lesson 02 (01/08/2024)
 Content:
 
-Fixing environment issues
-NPM
-Production dependencies
-Development dependencies
-Scripts
-Node Watch
+- Fixing environment issues
+- NPM
+- Production dependencies
+- Development dependencies
+- Scripts
+- Node Watch
 Notes:
 N/A
+
 Lesson 03 (05/08/2024)
 Content:
 
-Exercise correction
-Code versioning
-Import vs Require
-Backend
-HTTP requests
+- Exercise correction
+- Code versioning
+- Import vs Require
+- Backend
+- HTTP requests
 Notes:
 N/A
+
 Lesson 04 (08/08/2024)
 Content:
 
-HTTP review
-HTTP methods
-HTTP requests using CURL
-Data submission flow (form -> backend)
-NodeJS application setup with TS
+- HTTP review
+- HTTP methods
+- HTTP requests using CURL
+- Data submission flow (form -> backend)
+- NodeJS application setup with TS
 Notes:
 CURLS:
 GET example:
 curl http://localhost:3000/cadastro
 POST example:
 curl -X POST http://localhost:3000/cadastro
+
 Lesson 05 (12/08/2024)
 Content:
 
-Express
-GET method
-Extracting information via Query String
-Extracting information via parameter
+- Express
+- GET method
+- Extracting information via Query String
+- Extracting information via parameter
 Notes:
 From scratch: a term used when developing something from the ground up.
+
 Lesson 06 (13/08/2024)
 Content:
 
-HTTP verbs
-HTTP Responses
-Status Codes
-Content Types
-GET requests
-POST requests
-Postman
+- HTTP verbs
+- HTTP Responses
+- Status Codes
+- Content Types
+- GET requests
+- POST requests
+- Postman
 Collection
 Notes:
 Apps similar to Postman: Thunderclient, Insomnia, Postman.
+
 Lesson 07 (15/08/2024)
 Content:
 
-Project structure with MVC
-Database connection using mysql2
-Listing Departments
-Inserting Departments
+- Project structure with MVC
+- Database connection using mysql2
+- Listing Departments
+- Inserting Departments
 Notes:
 Study code patterns (CLEAN CODE, SOLID, MVC - Model View Controller, DRY, etc).
 Request body or response body => Request payload and response payload.
 SQL Injection: understand how it works to avoid security issues.
+
 Lesson 08 (19/08/2024)
 Content:
 
-Docker overview with docker-compose
-Correction of DELETE exercise
-CI/CD with Vercel
-Using a template
-Vercel deployment file
-Deploy to Vercel
-Validators with Next
+- Docker overview with docker-compose
+- Correction of DELETE exercise
+- CI/CD with Vercel
+- Using a template
+- Vercel deployment file
+- Deploy to Vercel
+- Validators with Next
+
 Lesson 09 (20/08/2024)
 Content:
 
-.env for the database
-PUT/PATCH for departments
-Environment configuration on Vercel
-Review of Validators
+- .env for the database
+- PUT/PATCH for departments
+- Environment configuration on Vercel
+- Review of Validators
+
 Lesson 10 (22/08/2024)
 Content:
 
-Correction of the PUT exercise
-Correction of the Departments by ID exercise
-Implementation of employee route with departments (BFF concept)
-CORS
+- Correction of the PUT exercise
+- Correction of the Departments by ID exercise
+- Implementation of employee route with departments (BFF concept)
+- CORS
 Extras
 Notes:
 Code scanning tools: usually integrated into CI/CD. SonarQube (validates complexity, code smells, redundancy, etc.).
